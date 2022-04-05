@@ -1,0 +1,14 @@
+C:\Users\Simara\Desktop\enum\enum\bin\Debug\netcoreapp3.1\enummmm.exe
+C:\Users\Simara\Desktop\enum\enum\bin\Debug\netcoreapp3.1\enummmm.deps.json
+C:\Users\Simara\Desktop\enum\enum\bin\Debug\netcoreapp3.1\enummmm.runtimeconfig.json
+C:\Users\Simara\Desktop\enum\enum\bin\Debug\netcoreapp3.1\enummmm.runtimeconfig.dev.json
+C:\Users\Simara\Desktop\enum\enum\bin\Debug\netcoreapp3.1\enummmm.dll
+C:\Users\Simara\Desktop\enum\enum\bin\Debug\netcoreapp3.1\enummmm.pdb
+C:\Users\Simara\Desktop\enum\enum\obj\Debug\netcoreapp3.1\enummmm.csproj.AssemblyReference.cache
+C:\Users\Simara\Desktop\enum\enum\obj\Debug\netcoreapp3.1\enummmm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simara\Desktop\enum\enum\obj\Debug\netcoreapp3.1\enummmm.AssemblyInfoInputs.cache
+C:\Users\Simara\Desktop\enum\enum\obj\Debug\netcoreapp3.1\enummmm.AssemblyInfo.cs
+C:\Users\Simara\Desktop\enum\enum\obj\Debug\netcoreapp3.1\enummmm.csproj.CoreCompileInputs.cache
+C:\Users\Simara\Desktop\enum\enum\obj\Debug\netcoreapp3.1\enummmm.dll
+C:\Users\Simara\Desktop\enum\enum\obj\Debug\netcoreapp3.1\enummmm.pdb
+C:\Users\Simara\Desktop\enum\enum\obj\Debug\netcoreapp3.1\enummmm.genruntimeconfig.cache
