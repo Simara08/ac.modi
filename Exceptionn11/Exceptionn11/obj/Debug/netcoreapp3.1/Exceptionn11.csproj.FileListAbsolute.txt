@@ -1,0 +1,14 @@
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\obj\Debug\netcoreapp3.1\Exceptionn11.csproj.AssemblyReference.cache
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\obj\Debug\netcoreapp3.1\Exceptionn11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\obj\Debug\netcoreapp3.1\Exceptionn11.AssemblyInfoInputs.cache
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\obj\Debug\netcoreapp3.1\Exceptionn11.AssemblyInfo.cs
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\obj\Debug\netcoreapp3.1\Exceptionn11.csproj.CoreCompileInputs.cache
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\bin\Debug\netcoreapp3.1\Exceptionn11.exe
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\bin\Debug\netcoreapp3.1\Exceptionn11.deps.json
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\bin\Debug\netcoreapp3.1\Exceptionn11.runtimeconfig.json
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\bin\Debug\netcoreapp3.1\Exceptionn11.runtimeconfig.dev.json
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\bin\Debug\netcoreapp3.1\Exceptionn11.dll
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\bin\Debug\netcoreapp3.1\Exceptionn11.pdb
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\obj\Debug\netcoreapp3.1\Exceptionn11.dll
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\obj\Debug\netcoreapp3.1\Exceptionn11.pdb
+C:\Users\Simara\Desktop\Exceptionn11\Exceptionn11\obj\Debug\netcoreapp3.1\Exceptionn11.genruntimeconfig.cache
