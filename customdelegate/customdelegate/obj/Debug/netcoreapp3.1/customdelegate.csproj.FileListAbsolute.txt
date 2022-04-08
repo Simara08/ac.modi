@@ -1,0 +1,14 @@
+C:\Users\Simara\Desktop\customdelegate\customdelegate\bin\Debug\netcoreapp3.1\customdelegate.exe
+C:\Users\Simara\Desktop\customdelegate\customdelegate\bin\Debug\netcoreapp3.1\customdelegate.deps.json
+C:\Users\Simara\Desktop\customdelegate\customdelegate\bin\Debug\netcoreapp3.1\customdelegate.runtimeconfig.json
+C:\Users\Simara\Desktop\customdelegate\customdelegate\bin\Debug\netcoreapp3.1\customdelegate.runtimeconfig.dev.json
+C:\Users\Simara\Desktop\customdelegate\customdelegate\bin\Debug\netcoreapp3.1\customdelegate.dll
+C:\Users\Simara\Desktop\customdelegate\customdelegate\bin\Debug\netcoreapp3.1\customdelegate.pdb
+C:\Users\Simara\Desktop\customdelegate\customdelegate\obj\Debug\netcoreapp3.1\customdelegate.csproj.AssemblyReference.cache
+C:\Users\Simara\Desktop\customdelegate\customdelegate\obj\Debug\netcoreapp3.1\customdelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simara\Desktop\customdelegate\customdelegate\obj\Debug\netcoreapp3.1\customdelegate.AssemblyInfoInputs.cache
+C:\Users\Simara\Desktop\customdelegate\customdelegate\obj\Debug\netcoreapp3.1\customdelegate.AssemblyInfo.cs
+C:\Users\Simara\Desktop\customdelegate\customdelegate\obj\Debug\netcoreapp3.1\customdelegate.csproj.CoreCompileInputs.cache
+C:\Users\Simara\Desktop\customdelegate\customdelegate\obj\Debug\netcoreapp3.1\customdelegate.dll
+C:\Users\Simara\Desktop\customdelegate\customdelegate\obj\Debug\netcoreapp3.1\customdelegate.pdb
+C:\Users\Simara\Desktop\customdelegate\customdelegate\obj\Debug\netcoreapp3.1\customdelegate.genruntimeconfig.cache
